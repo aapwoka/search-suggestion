@@ -6,3 +6,5 @@ Recap of data structures.
 HTML
 CSS
 Javascript
+
+View it here: https://aapwoka.github.io/search-suggestion/
